@@ -1,4 +1,3 @@
-# LogisticTrainOrganizer
+# Example Entity with Tags
 
-Organize trains in a logistics network with suppy and demand.
-x
+Shows how to store extra information in tags when taking a blueprint and how to later retieve said information.
